@@ -10,7 +10,7 @@
 <input type="hidden" name="csrf" id="csrf" value="{{csrf_token()}}">
 <input type="button" name="click_me" id="click_me" value="Click Me">
 
-<h1>Add-New</h1>
+<h1>Add-New-wow</h1>
 
 <input type="text" name="input_1_1" id="input_1_1">
 <input type="text" name="input_2_1" id="input_2_1">
